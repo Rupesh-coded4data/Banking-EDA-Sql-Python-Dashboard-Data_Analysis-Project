@@ -159,5 +159,7 @@ Engagement Days = DATEDIFF('Clients - Banking'[Joined Bank], TODAY(), DAY)
 ---
 
 **Author:** Rupesh Gavli 
+
 **Linkedin:** www.linkedin.com/in/rupesh-gavli
+
 **E-mail:** rupeshgavli2003@gmail.com
